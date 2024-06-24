@@ -37,6 +37,9 @@ This guide outlines the steps required to configure and run a proxy server using
    const cookie = '{get the cookie from power pages site}';
    ```
 
+![image](https://github.com/Munendra7/Power-Platform/assets/89851958/3961310e-1d50-4e49-8640-904af268c7ca)
+
+
 3. **Run `proxy-server.js`**:
    - Locate the `proxy-server.js` file.
    - Run the following command to start the server:
