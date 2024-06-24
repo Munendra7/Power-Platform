@@ -31,7 +31,7 @@ This guide outlines the steps required to configure and run a proxy server using
    const siteUrl = 'https://your-site-url.com';
    ```
 
-2. **Update Cookie**:
+2. **Update Cookie**: (you can get cookie by calling any api directly in browser to get the value)
 
    ```javascript
    const cookie = '{get the cookie from power pages site}';
